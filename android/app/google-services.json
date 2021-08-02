@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650002445899",
+    "project_id": "dgpc-app",
+    "storage_bucket": "dgpc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650002445899:android:f5a8bbafbf54320c75ffce",
+        "android_client_info": {
+          "package_name": "bt.drukgreen.manual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650002445899-oiirv72kh6saf5jk6sccslejfqefcot9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrC_C7BHz2Uu2BPj38HPJwHtHPkWDEQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650002445899-oiirv72kh6saf5jk6sccslejfqefcot9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

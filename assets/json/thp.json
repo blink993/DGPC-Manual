@@ -1,0 +1,70 @@
+{
+    "THP": [
+        {
+            "id": "thp1",
+            "name": "Item 1",
+            "description": "Description 1"
+        },
+        {
+            "id": "thp2",
+            "name": "Item 2",
+            "description": "Description 2"
+        },
+        {
+            "id": "thp3",
+            "name": "Item 3",
+            "description": "Description 3"
+        }
+    ],
+    "CHP": [
+        {
+            "id": "chp1",
+            "name": "Item 1",
+            "description": "Description 1"
+        },
+        {
+            "id": "chp2",
+            "name": "Item 2",
+            "description": "Description 2"
+        },
+        {
+            "id": "chp3",
+            "name": "Item 3",
+            "description": "Description 3"
+        }
+    ],
+    "KHP": [
+        {
+            "id": "khp1",
+            "name": "Item 1",
+            "description": "Description 1"
+        },
+        {
+            "id": "khp2",
+            "name": "Item 2",
+            "description": "Description 2"
+        },
+        {
+            "id": "khp3",
+            "name": "Item 3",
+            "description": "Description 3"
+        }
+    ],
+    "BHP": [
+        {
+            "id": "bhp1",
+            "name": "Item 1",
+            "description": "Description 1"
+        },
+        {
+            "id": "bhp2",
+            "name": "Item 2",
+            "description": "Description 2"
+        },
+        {
+            "id": "bhp3",
+            "name": "Item 3",
+            "description": "Description 3"
+        }
+    ]
+}
